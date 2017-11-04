@@ -2,14 +2,11 @@
 An executable bash script using the dialog widgets library to provide a simplified gui front end for running Wappalyzer in Docker.
 
 ## Dependencies
-### Docker
-https://www.docker.com/what-docker
-### Dialog
-http://invisible-island.net/dialog/
-### Bash
-http://tldp.org/LDP/abs/html/
-### Optional: ./jq
-https://stedolan.github.io/jq/
+### Docker https://www.docker.com/what-docker
+### Dialog http://invisible-island.net/dialog/
+### Bash http://tldp.org/LDP/abs/html/
+### Optional: ./jq https://stedolan.github.io/jq/
+
 tl;dr: jq is hot. It's small. It parses and pretty prints json from the command line. It does it very quickly. 
 
 ## Why?
