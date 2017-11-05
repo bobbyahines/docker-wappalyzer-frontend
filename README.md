@@ -28,7 +28,9 @@ Fork this repository and use `wapper.sh` as a template for adding some dialog to
 ### Open Source Contribution
 
 #### Submit A New Feature
-Are you looking for your first open source contribution experience? Clone this repo, add a useful feature to the `./wapper-os.sh` and submit a pull request. Leave the `wapper.sh` intact so that others can use the base template for their own needs.
+Are you looking for your first open source contribution experience? Clone this repo, add a useful feature to the `./wapper-os.sh` and submit a pull request. How about the option to turn logging on and off?
+
+Always leave the `wapper.sh` intact so that others can use the base template for their own needs.
 
 #### Fix An Issue
 Or, clone it down, address a current issue ticket, and submit a pull request.
