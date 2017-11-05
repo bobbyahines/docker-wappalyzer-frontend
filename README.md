@@ -14,7 +14,7 @@ It's true, that the wappalyzer team already made it super simple to do this from
 ```
 $ docker run --rm wappalyzer/cli https://www.some.domain
 ```
-and then just copy paste into your favorite json editor. I was mostly just exploring the dialog library to add some pretty to the bash scripts I was writing for devops purposes (automating the builds of consistent sandboxed development environments for my dev team). It's also a minor convenience for me
+and then just copy paste into your favorite json editor. I was mostly just exploring the dialog library to add some pretty to the bash scripts I was writing for devops purposes (automating the builds of consistent sandboxed development environments for my dev team). It's also a minor convenience for me to double-click an icon and launch a desktop interface on a whim when I'm curious about the stack behind a URL.
 
 ## Ideas for Extension, Beginner Project, Open Source Contribution
 Looking for a project to help you explore bash, dialog, docker, automation, etc?
