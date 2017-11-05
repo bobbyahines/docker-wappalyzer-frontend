@@ -1,5 +1,5 @@
-# docker-wappalyzer-frontend
-An executable bash script using the dialog widgets library to provide a simplified gui front end for running Wappalyzer in Docker.
+# wapper
+An executable bash script using the dialog widgets library to provide a simplified gui front end for running Wappalyzer in Docker. Oh, and a valuable learning opportunity.
 
 ## Dependencies
 ### Docker https://www.docker.com/what-docker
